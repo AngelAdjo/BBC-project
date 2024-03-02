@@ -1,13 +1,5 @@
 
 
-.iran-news{
-    background-image: url(tank.jpeg);
-    height: 400px;
-    width: 800px;
-    align-items: center;
-    justify-content: center;
-}
-
 
 .ul{
     display: flex;
