@@ -1,9 +1,9 @@
 
-
-
 .ul{
     display: flex;
     gap: 3rem;
+    background-color: black;
+    height: 2rem;
 }
 
 .ul > a {
